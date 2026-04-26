@@ -29,6 +29,7 @@ print(remove(input_str))
 ~~~
 
 ## Output
+<img width="477" height="341" alt="image" src="https://github.com/user-attachments/assets/66f4da0e-00f9-4977-a895-d945d3769f98" />
 
 ## Result
 Thus, The Python program that accepts a string and removes the character at a specified index was executed successfully.
