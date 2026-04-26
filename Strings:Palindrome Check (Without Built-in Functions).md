@@ -23,6 +23,7 @@ else:
 ~~~
 
 ## Output
+<img width="508" height="224" alt="image" src="https://github.com/user-attachments/assets/1ab307de-2973-40da-9705-bc4fba93300d" />
 
 ## Result
 Thus, The Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions was executed successfully.
