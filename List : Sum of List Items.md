@@ -16,6 +16,7 @@ print(total)
 ~~~
 
 ## Output
+<img width="327" height="134" alt="image" src="https://github.com/user-attachments/assets/9cef213f-d28b-4eff-b13a-852fecef3c97" />
 
 ## Result
 Thus, The Python program that calculates the sum of all elements in a list was executed ssuccessfully.
