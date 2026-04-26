@@ -28,6 +28,7 @@ print(l1)
 ~~~
 
 ## Output
+<img width="695" height="302" alt="image" src="https://github.com/user-attachments/assets/5fe2b84c-f254-4843-8920-575dc5c1ae89" />
 
 ## Result
 Thus, The Python program that filters out and returns all elements from a list that do not contain the letter 'e', using regular expressions (regex) was executed successfully.
